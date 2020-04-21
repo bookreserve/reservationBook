@@ -1,0 +1,9 @@
+reservationBook\AbstractEvent.class
+reservationBook\BookRepository.class
+reservationBook\BookController.class
+reservationBook\Application.class
+reservationBook\Book.class
+reservationBook\BookStatusChanged.class
+reservationBook\PolicyHandler.class
+reservationBook\config\kafka\KafkaProcessor.class
+reservationBook\BookRegistered.class
