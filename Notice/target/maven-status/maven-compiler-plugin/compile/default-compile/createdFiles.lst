@@ -1,0 +1,8 @@
+reservationBook\AbstractEvent.class
+reservationBook\Rented.class
+reservationBook\Application.class
+reservationBook\ReservationCanceled.class
+reservationBook\PolicyHandler.class
+reservationBook\Reserved.class
+reservationBook\Returned.class
+reservationBook\config\kafka\KafkaProcessor.class

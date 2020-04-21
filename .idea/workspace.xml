@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dad65b4c-d01b-4a78-a67a-eda3c875da81" name="Default Changelist" comment="" />
+    <list default="true" id="dad65b4c-d01b-4a78-a67a-eda3c875da81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/classes/reservationBook/AbstractEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/classes/reservationBook/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/classes/reservationBook/PolicyHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/classes/reservationBook/Rented.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/classes/reservationBook/ReservationCanceled.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/classes/reservationBook/Reserved.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/classes/reservationBook/Returned.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/classes/reservationBook/config/kafka/KafkaProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notice/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notice/src/main/java/reservationBook/PolicyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Notice/src/main/java/reservationBook/PolicyHandler.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1apOABptNgeynma3qkIZlpkUQV8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Rental/src/main/java/reservationBook" />
   </component>
   <component name="RecentsManager">
@@ -44,21 +64,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587429030108" />
-    <state width="1860" height="306" key="GridCell.Tab.0.bottom" timestamp="1587445475464">
+    <state x="134" y="108" width="1720" height="840" key="DiffContextDialog" timestamp="1587451212333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="306" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587445475464" />
-    <state width="1860" height="306" key="GridCell.Tab.0.center" timestamp="1587445475464">
+    <state x="134" y="108" width="1720" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587451212333" />
+    <state width="930" height="216" key="GridCell.Tab.0.bottom" timestamp="1587451298670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="306" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587445475464" />
-    <state width="1860" height="306" key="GridCell.Tab.0.left" timestamp="1587445475464">
+    <state width="930" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587451298670" />
+    <state width="930" height="216" key="GridCell.Tab.0.center" timestamp="1587451298670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="306" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587445475464" />
-    <state width="1860" height="306" key="GridCell.Tab.0.right" timestamp="1587445475464">
+    <state width="930" height="216" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587451298670" />
+    <state width="930" height="216" key="GridCell.Tab.0.left" timestamp="1587451298670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="306" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587445475464" />
+    <state width="930" height="216" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587451298670" />
+    <state width="930" height="216" key="GridCell.Tab.0.right" timestamp="1587451298670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="930" height="216" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587451298670" />
+    <state x="586" y="261" key="Vcs.Push.Dialog.v2" timestamp="1587451191393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587451191393" />
+    <state x="718" y="262" key="VcsDiffUtil.ChangesDialog" timestamp="1587451123793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="262" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587451123793" />
+    <state x="757" y="319" key="git4idea.merge.GitMergeDialog" timestamp="1587451154235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="319" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587451154235" />
   </component>
 </project>
